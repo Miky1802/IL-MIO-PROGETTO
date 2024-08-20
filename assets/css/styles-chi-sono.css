@@ -45,6 +45,8 @@ nav ul li a:hover {
   flex-direction: row;
   color: white;
   align-items: center;
+  margin-top: 40px;
+
 }
 
 .presentazione {

@@ -1,10 +1,16 @@
 
+.bottone {
+
+    margin-top: 130px;
+}
+
 h1 {
     
     text-align: center;
     color: azure; 
     font-size: 100px;
     font-family: "Antonio", "Antonio Placeholder", sans-serif;
+    margin-top: 50px;
 
 }
 
@@ -14,7 +20,7 @@ h2 {
     color: azure; 
     font-size: 24px;
     font-family: "Roboto", sans-serif, bold;
-    margin-top: 50px;
+    margin-top: 130px;
     
 }
 
