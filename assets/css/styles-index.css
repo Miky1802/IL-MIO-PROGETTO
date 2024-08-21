@@ -10,19 +10,10 @@ h1 {
     color: azure; 
     font-size: 100px;
     font-family: "Antonio", "Antonio Placeholder", sans-serif;
-    margin-top: 110px;
+    margin-top: 200px;
 
 }
 
-h2 {
-
-    text-align: center; 
-    color: azure; 
-    font-size: 24px;
-    font-family: "Roboto", sans-serif, bold;
-    margin-top: 130px;
-    
-}
 
 
 body {
@@ -89,7 +80,7 @@ nav ul li a:hover {
     h1 {
 
     color: azure; 
-    margin-top: 130px; 
+    margin-top: 150px; 
     font-size: 70px;
     font-family: "Antonio", "Antonio Placeholder", sans-serif;
    
