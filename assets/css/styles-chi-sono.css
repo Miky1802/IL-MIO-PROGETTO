@@ -84,7 +84,8 @@ nav ul li a:hover {
         margin: 40px auto;
         text-align: center;
         
-    }    
+    } 
+
     
     }
 
@@ -107,25 +108,53 @@ nav ul li a:hover {
 
             text-align: center;
 
+        }
 
+        .logolavoro {
+            
+            margin: 0 145px;
+            
+        }
+
+      
+
+        .lavoro1 {
+
+            display: inline;
+            text-align: center;
+            margin-left: 10px;
+            
+        }
+
+        .lavoro2 {
+
+            display: inline;
+            text-align: center;
+            
+        }
+
+        .lavoro3 {
+
+            display: inline;
+            text-align: center;
+            
         }
 
 
         h2 {
             
-            font-size: 15px;
+            font-size: 18px;
           }
 
         h4 {
 
-            font-size: 10px;
+            font-size: 13px;
 
-        
           }
 
         h6 {
             
-            font-size: 8px;
+            font-size: 10px;
           }
 
           
