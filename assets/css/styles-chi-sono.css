@@ -88,17 +88,98 @@ nav ul li a:hover {
     
     }
 
-    @media screen and (max-width: 678px) {
+    @media (max-width: 678px) {
+
+        .presentazione {
+
+            margin-left: 20px;
+            margin-right: 20px;
+        }
 
         .presentazione-2 {
 
-            margin: 0 auto; 
+            margin-left: 20px; 
+            margin-right: 20px;
             text-align: center;      
         }
 
+        .profilo {
+
+            text-align: center;
+
+
+        }
+
+    
+
+          h2 {
+
+            font-size: 20px;
+          }
+
+          h4 {
+
+            font-size: 15px;
+
+        
+          }
+
+          h8 {
+
+            font-size: 10px;
+          }
+
+          
+
+          .logolavoro {
+
+            height: 70px;
+            width: 70px;
+            
+          }
+
+    
 
         
     }
+
+  .profilo {
+
+    text-align: center;
+    font-family: "Antonio", "Antonio Placeholder", sans-serif;
+    font-size: 40px;
+    color: white;
+    line-height: 10px;
+
+
+  }
+
+  .lavoro1 {
+
+    margin: auto 155px;
+    font-family: "Antonio", "Antonio Placeholder", sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+
+  .lavoro2 {
+
+    margin: auto 155px;
+    font-family: "Antonio", "Antonio Placeholder", sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+
+  .lavoro3 {
+
+    margin: auto 155px;
+    font-family: "Antonio", "Antonio Placeholder", sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+
+
+ 
     
 
 
